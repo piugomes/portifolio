@@ -1,0 +1,112 @@
+.corpo{
+	background-color: #A9A9A9;
+	text-align: center;
+	margin: 50px;
+}
+
+.boasVindas{
+	text-align: center;
+	font-size: 50px;
+}
+
+button{
+	text-align: center;
+	font-size: 25px;
+	border-radius: 10px;
+	border-color: black;
+	width: 15%;
+}
+
+.a{
+	background-color:transparent;
+}
+
+a:link{
+	color: black;
+}
+
+a:visited{
+	color: black;
+}
+
+ 
+
+.legend{
+	font-size: 25px;
+	text-align: center;
+	color: black;
+}
+
+form fieldset input{
+	text-align: center;
+	background-color: transparent;
+	border-radius: 5px;
+	border-color: #696969;
+	height: 23px;
+	width: 15%;
+	position: relative;
+} 
+
+.label{
+	font-size: 25px;
+	position: relative;
+	width: 20px; 
+}
+
+.enviado{
+	text-align: center;
+}
+
+.linkLista{
+	text-align: center;
+	font-size: 20px;
+	width: 200px;
+	border-radius: 5px;
+}
+
+.linkCadastro{
+	background-color:transparent;
+	text-align: center;
+	font-size: 25px;
+	border-radius: 10px;
+	border-color: black;
+	width: 30%;
+}
+
+.footer{
+	
+	background-color: rgba(75, 75, 78, 0.46);  /* cor do footer*/
+	color: white; 								/*cor do texto do footer*/
+	text-align:center;
+	margin: 0 auto;								/*afasta das maregns laterias */
+	font-family: Aparajita;						/* fonte do texto */
+	font-size: 20px;							/* tamanho do texto */
+	display:block; 
+    bottom:20px;
+    max-height:20%;
+}
+
+.table{
+	font-size: 30px;
+	border-style: solid; 
+	border-color: black; 
+}
+
+.linkSalvar{
+	background-color:transparent;
+	text-align: center;
+	font-size: 23px;
+	border-radius: 10px;
+	border-color: black;
+	width: 30%;
+	height: 20%;
+}
+
+.linkParaForm{
+	background-color:transparent;
+	text-align: center;
+	font-size: 25px;
+	border-radius: 10px;
+	border-color: black;
+	width: 30%;
+}
